@@ -9,6 +9,7 @@ import ru.vddmit.coursework_vddmit.repository.TeamAchievementRepository;
 @Service
 @RequiredArgsConstructor
 public class TeamAchievementService {
+
     private final TeamAchievementRepository teamAchievementRepository;
 
 
